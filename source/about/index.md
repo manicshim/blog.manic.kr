@@ -6,8 +6,15 @@ date: 2018-11-01 12:18:01
 ```SKILLS
 export const skills = {
     Language: {
-        Intermediate: ["PHP", "HTML", "JS"],
-        Beginner: ["NodeJS", "Python", "JAVA"],
+        Intermediate: ["PHP", "HTML", "JavaScript"],
+        Beginner: [
+		"ClassicASP", 
+		"Node.js", 
+		"React", 
+		"TypeScript",
+		"Python", 
+		"JAVA"
+	],
         Add: ["GoLang", "Ruby"]
     },
     Back - End: {
@@ -19,7 +26,7 @@ export const skills = {
         WS: ["Apache", "Nginx", "NodeJS"]
     },
     Front - End: {
-        "HTML", "JS", "CSS"
+        "HTML", "JavaScript", "React", "TypeScript", "CSS"
     },
     System: {
         Native: ["CentOS", "Ubuntu", "Redhat"],
